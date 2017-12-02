@@ -1,6 +1,5 @@
 #include "stdafx.h"
 #include "MapReadder.h"
-#include "Config.h"
 
 MapReadder::MapReadder()
 {
