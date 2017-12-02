@@ -204,4 +204,3 @@ bool CheckOpenList(int x, int y)
 	}
 	return false;
 }
-
